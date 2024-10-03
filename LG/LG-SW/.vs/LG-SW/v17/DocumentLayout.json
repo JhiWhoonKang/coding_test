@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2057D78A-A1D0-4954-B7B2-F24CC7020EA0}|LG-SW.vcxproj|C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1834.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2057D78A-A1D0-4954-B7B2-F24CC7020EA0}|LG-SW.vcxproj|solutionrelative:1834.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2057D78A-A1D0-4954-B7B2-F24CC7020EA0}|LG-SW.vcxproj|C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1357.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2057D78A-A1D0-4954-B7B2-F24CC7020EA0}|LG-SW.vcxproj|solutionrelative:1357.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2057D78A-A1D0-4954-B7B2-F24CC7020EA0}|LG-SW.vcxproj|C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1296.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2057D78A-A1D0-4954-B7B2-F24CC7020EA0}|LG-SW.vcxproj|solutionrelative:1296.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2057D78A-A1D0-4954-B7B2-F24CC7020EA0}|LG-SW.vcxproj|C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1292.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2057D78A-A1D0-4954-B7B2-F24CC7020EA0}|LG-SW.vcxproj|solutionrelative:1292.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,19 +43,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "1834.cpp",
+              "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1834.cpp",
+              "RelativeDocumentMoniker": "1834.cpp",
+              "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1834.cpp",
+              "RelativeToolTip": "1834.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T13:55:22.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1357.cpp",
+              "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1357.cpp",
+              "RelativeDocumentMoniker": "1357.cpp",
+              "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1357.cpp",
+              "RelativeToolTip": "1357.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T12:44:20.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1296.cpp",
+              "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1296.cpp",
+              "RelativeDocumentMoniker": "1296.cpp",
+              "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1296.cpp",
+              "RelativeToolTip": "1296.cpp",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwEMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T10:15:47.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "1292.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1292.cpp",
               "RelativeDocumentMoniker": "1292.cpp",
               "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1292.cpp",
               "RelativeToolTip": "1292.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-02T10:26:10.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "1268.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1268.cpp",
               "RelativeDocumentMoniker": "1268.cpp",
@@ -51,12 +102,11 @@
               "RelativeToolTip": "1268.cpp",
               "ViewState": "AQIAABAAAAAAAAAAAAAIwBwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-01T04:21:50.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T04:21:50.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "1236.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1236.cpp",
               "RelativeDocumentMoniker": "1236.cpp",
@@ -64,12 +114,11 @@
               "RelativeToolTip": "1236.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-30T14:42:22.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T14:42:22.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "1157.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\LG\\LG-SW\\1157.cpp",
               "RelativeDocumentMoniker": "1157.cpp",
@@ -77,8 +126,7 @@
               "RelativeToolTip": "1157.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-30T11:48:28.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T11:48:28.451Z"
             }
           ]
         }

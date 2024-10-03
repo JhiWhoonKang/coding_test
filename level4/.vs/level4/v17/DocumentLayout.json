@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93ACEEE9-AB37-4D13-85DE-677929CB614C}|level4.vcxproj|C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{93ACEEE9-AB37-4D13-85DE-677929CB614C}|level4.vcxproj|solutionrelative:4by1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93ACEEE9-AB37-4D13-85DE-677929CB614C}|level4.vcxproj|C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{93ACEEE9-AB37-4D13-85DE-677929CB614C}|level4.vcxproj|solutionrelative:4by3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -37,6 +33,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{93ACEEE9-AB37-4D13-85DE-677929CB614C}|level4.vcxproj|C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{93ACEEE9-AB37-4D13-85DE-677929CB614C}|level4.vcxproj|solutionrelative:4by10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ACEEE9-AB37-4D13-85DE-677929CB614C}|level4.vcxproj|C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93ACEEE9-AB37-4D13-85DE-677929CB614C}|level4.vcxproj|solutionrelative:4by1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ACEEE9-AB37-4D13-85DE-677929CB614C}|level4.vcxproj|C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93ACEEE9-AB37-4D13-85DE-677929CB614C}|level4.vcxproj|solutionrelative:4by2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
+              "Title": "4by2.cpp",
+              "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by2.cpp",
+              "RelativeDocumentMoniker": "4by2.cpp",
+              "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by2.cpp",
+              "RelativeToolTip": "4by2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T10:28:39.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "4by10.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by10.cpp",
               "RelativeDocumentMoniker": "4by10.cpp",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "4by9.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by9.cpp",
               "RelativeDocumentMoniker": "4by9.cpp",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "4by8.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by8.cpp",
               "RelativeDocumentMoniker": "4by8.cpp",
@@ -89,20 +106,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "4by7.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by7.cpp",
               "RelativeDocumentMoniker": "4by7.cpp",
               "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by7.cpp",
               "RelativeToolTip": "4by7.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T14:41:50.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "4by6.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by6.cpp",
               "RelativeDocumentMoniker": "4by6.cpp",
@@ -115,20 +132,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "4by5.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by5.cpp",
               "RelativeDocumentMoniker": "4by5.cpp",
               "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by5.cpp",
               "RelativeToolTip": "4by5.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T11:55:28.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "4by4.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by4.cpp",
               "RelativeDocumentMoniker": "4by4.cpp",
@@ -141,26 +158,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "4by3.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by3.cpp",
               "RelativeDocumentMoniker": "4by3.cpp",
               "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by3.cpp",
               "RelativeToolTip": "4by3.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-01T14:58:43.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "4by1.cpp",
               "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by1.cpp",
               "RelativeDocumentMoniker": "4by1.cpp",
               "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\coding_test\\level4\\4by1.cpp",
               "RelativeToolTip": "4by1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-01T14:51:12.175Z",
               "EditorCaption": ""
