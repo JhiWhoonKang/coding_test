@@ -1,69 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2667.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2667.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\2667.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2606.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\27433.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\27433.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2606.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\2606.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\9934.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\9934.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\9934.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\28215.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\28215.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\28215.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\22856.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\22856.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\22856.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\18126.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\18126.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\18126.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\15900.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\15900.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\15900.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\11725.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\11725.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\11725.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\9935.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\9935.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\9935.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\6597.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\6597.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\6597.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2468.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2468.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\2468.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1260.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1260.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\1260.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1198.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1198.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\1198.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1057.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1057.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\1057.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1991.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1991.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\1991.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1051.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1051.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2598D7A1-6C9E-41E3-BE51-02065D913AC2}|baekjoon\\baekjoon.vcxproj|solutionrelative:baekjoon\\1051.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -74,215 +78,213 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "27433.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\27433.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\27433.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\27433.cpp",
+              "RelativeToolTip": "baekjoon\\27433.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T05:15:28.824Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "2667.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2667.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2667.cpp",
               "RelativeDocumentMoniker": "baekjoon\\2667.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2667.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2667.cpp",
               "RelativeToolTip": "baekjoon\\2667.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwCsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T15:25:37.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "2606.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2606.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2606.cpp",
               "RelativeDocumentMoniker": "baekjoon\\2606.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2606.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2606.cpp",
               "RelativeToolTip": "baekjoon\\2606.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-06T14:36:15.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "9934.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\9934.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\9934.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\9934.cpp",
-              "RelativeToolTip": "baekjoon\\9934.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-06T08:34:46.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "2468.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2468.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\2468.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2468.cpp",
-              "RelativeToolTip": "baekjoon\\2468.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-05T15:55:38.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "1260.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1260.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\1260.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1260.cpp",
-              "RelativeToolTip": "baekjoon\\1260.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-05T15:30:30.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "6597.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\6597.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\6597.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\6597.cpp",
-              "RelativeToolTip": "baekjoon\\6597.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-05T14:06:37.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "18126.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\18126.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\18126.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\18126.cpp",
-              "RelativeToolTip": "baekjoon\\18126.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-05T05:39:36.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "22856.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\22856.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\22856.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\22856.cpp",
-              "RelativeToolTip": "baekjoon\\22856.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-04T16:02:16.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "15900.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\15900.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\15900.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\15900.cpp",
-              "RelativeToolTip": "baekjoon\\15900.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-04T13:18:59.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "11725.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\11725.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\11725.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\11725.cpp",
-              "RelativeToolTip": "baekjoon\\11725.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-04T13:14:31.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "1991.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1991.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\1991.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1991.cpp",
-              "RelativeToolTip": "baekjoon\\1991.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-03T13:56:49.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "9935.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\9935.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\9935.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\9935.cpp",
-              "RelativeToolTip": "baekjoon\\9935.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T13:29:12.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "1198.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1198.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\1198.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1198.cpp",
-              "RelativeToolTip": "baekjoon\\1198.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T08:49:33.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "1057.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1057.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\1057.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1057.cpp",
-              "RelativeToolTip": "baekjoon\\1057.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T08:30:33.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "1051.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1051.cpp",
-              "RelativeDocumentMoniker": "baekjoon\\1051.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1051.cpp",
-              "RelativeToolTip": "baekjoon\\1051.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T08:02:55.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T14:36:15.436Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "9934.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\9934.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\9934.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\9934.cpp",
+              "RelativeToolTip": "baekjoon\\9934.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T08:34:46.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "2468.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2468.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\2468.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\2468.cpp",
+              "RelativeToolTip": "baekjoon\\2468.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T15:55:38.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "1260.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1260.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\1260.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1260.cpp",
+              "RelativeToolTip": "baekjoon\\1260.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T15:30:30.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "6597.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\6597.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\6597.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\6597.cpp",
+              "RelativeToolTip": "baekjoon\\6597.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T14:06:37.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "18126.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\18126.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\18126.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\18126.cpp",
+              "RelativeToolTip": "baekjoon\\18126.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T05:39:36.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "22856.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\22856.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\22856.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\22856.cpp",
+              "RelativeToolTip": "baekjoon\\22856.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T16:02:16.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "15900.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\15900.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\15900.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\15900.cpp",
+              "RelativeToolTip": "baekjoon\\15900.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T13:18:59.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "11725.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\11725.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\11725.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\11725.cpp",
+              "RelativeToolTip": "baekjoon\\11725.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T13:14:31.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "1991.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1991.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\1991.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1991.cpp",
+              "RelativeToolTip": "baekjoon\\1991.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T13:56:49.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "9935.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\9935.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\9935.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\9935.cpp",
+              "RelativeToolTip": "baekjoon\\9935.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T13:29:12.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "1198.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1198.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\1198.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1198.cpp",
+              "RelativeToolTip": "baekjoon\\1198.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T08:49:33.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "1057.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1057.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\1057.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1057.cpp",
+              "RelativeToolTip": "baekjoon\\1057.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T08:30:33.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "1051.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1051.cpp",
+              "RelativeDocumentMoniker": "baekjoon\\1051.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\1051.cpp",
+              "RelativeToolTip": "baekjoon\\1051.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T08:02:55.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "28215.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\28215.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\28215.cpp",
               "RelativeDocumentMoniker": "baekjoon\\28215.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\28215.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\BAEKJOON\\baekjoon\\baekjoon\\28215.cpp",
               "RelativeToolTip": "baekjoon\\28215.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-01T07:03:44.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T07:03:44.701Z"
             }
           ]
         }

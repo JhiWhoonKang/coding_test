@@ -1,0 +1,4 @@
+﻿  7576.cpp
+C:\Users\user\Desktop\강의자료 모음\coding_test\FS_BT\BruteForeBackTracking\7576.cpp(57,13): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+C:\Users\user\Desktop\강의자료 모음\coding_test\FS_BT\BruteForeBackTracking\7576.cpp(57,15): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  BruteForeBackTracking.vcxproj -> C:\Users\user\Desktop\강의자료 모음\coding_test\FS_BT\BruteForeBackTracking\x64\Debug\BruteForeBackTracking.exe
