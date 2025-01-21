@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\",
+  "WorkspaceRootPath": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\9012.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\18258.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:18258.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\10828.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:10828.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1158.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:1158.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\9012.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:9012.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,15 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "9012.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\9012.c",
-              "RelativeDocumentMoniker": "9012.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\9012.c",
-              "RelativeToolTip": "9012.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-21T03:11:06.84Z",
+              "Title": "18258.cpp",
+              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\18258.cpp",
+              "RelativeDocumentMoniker": "18258.cpp",
+              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\18258.cpp",
+              "RelativeToolTip": "18258.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T14:20:25.057Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10828.c",
+              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\10828.c",
+              "RelativeDocumentMoniker": "10828.c",
+              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\10828.c",
+              "RelativeToolTip": "10828.c",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-21T14:19:47.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1158.c",
+              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1158.c",
+              "RelativeDocumentMoniker": "1158.c",
+              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1158.c",
+              "RelativeToolTip": "1158.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-21T13:06:56.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "9012.c",
+              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\9012.c",
+              "RelativeDocumentMoniker": "9012.c",
+              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\9012.c",
+              "RelativeToolTip": "9012.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-21T03:11:06.84Z"
             }
           ]
         }

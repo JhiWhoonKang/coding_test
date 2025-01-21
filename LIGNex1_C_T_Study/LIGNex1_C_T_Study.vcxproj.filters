@@ -18,5 +18,14 @@
     <ClCompile Include="9012.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1158.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10828.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="18258.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
