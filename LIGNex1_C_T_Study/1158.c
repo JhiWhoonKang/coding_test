@@ -12,7 +12,7 @@ int main(void)
 	int result[5001];
 	for (int i = 1; i <= N; ++i)
 	{
-		circular[i] = i;
+		circular[i] = i; //1번부터 N번까지 각 idx에 값 할당
 	}
 	
 	printf("<");
@@ -37,24 +37,24 @@ int main(void)
 
 	int crt_pos = 0;
 	int temp_idx = 0;
-	for (; delete_cnt < N;)
+	for (; delete_cnt < N;) //종료 조건: 제거 될 때 마다 delete_cnt 값 증가(== N회 반복)
 	{
-		for (; temp_idx < K;)
+		for (; temp_idx < K;) // K번째 사람 제거 위한 for문
 		{
-			crt_pos = crt_pos % N + 1;			
-			if (circular[crt_pos] != 0)
+			crt_pos = crt_pos % N + 1; //1번 idx 부터 시작했기에 +1
+			if (circular[crt_pos] != 0) //제거된 경우: 0, 제거되지 않은 경우: 0 이외의 값
 			{
-				++temp_idx;
+				++temp_idx; //제거되지 않은 경우만 인식해서 idx 증가
 			}
 		}
-		printf("%d", circular[crt_pos]);
-		circular[crt_pos] = 0;
-		++delete_cnt;
-		if (delete_cnt < N)
+		printf("%d", circular[crt_pos]); //K번째 사람 출력
+		circular[crt_pos] = 0; //K번째 사람 제거
+		++delete_cnt; //delete_cnt 증가
+		if (delete_cnt < N) //더 반복해야 하는 경우 "." 출력
 		{
 			printf(", ");
 		}
-		temp_idx = 0;
+		temp_idx = 0; // 다시 K회 반복하시 위해 temp_idx 초기화
 	}
 	printf(">");
 
