@@ -33,5 +33,8 @@
     <ClCompile Include="ST_CPTI.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9495.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

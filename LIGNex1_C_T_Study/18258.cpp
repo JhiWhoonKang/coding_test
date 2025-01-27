@@ -1,8 +1,21 @@
 #include <iostream>
 #include <queue>
 #include <string>
+#include <vector>
 
 using namespace std;
+
+template <typename T>
+T Max(T a, T b)
+{
+	return T;
+}
+
+template<>
+char* Max(char* a, char* b)
+{
+
+}
 
 int main(void)
 {
