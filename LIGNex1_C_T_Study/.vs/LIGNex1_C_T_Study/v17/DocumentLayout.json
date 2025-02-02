@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\CodingTest-Study\\SOF\\20250202\\7721_\uB8E8\uB3CC\uD504 \uC6D4\uB4DC\uCEF5\\KJW_7721.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\7721.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:7721.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -50,6 +53,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "KJW_7721.c",
+              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\CodingTest-Study\\SOF\\20250202\\7721_\uB8E8\uB3CC\uD504 \uC6D4\uB4DC\uCEF5\\KJW_7721.c",
+              "RelativeDocumentMoniker": "..\\..\\CodingTest-Study\\SOF\\20250202\\7721_\uB8E8\uB3CC\uD504 \uC6D4\uB4DC\uCEF5\\KJW_7721.c",
+              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\CodingTest-Study\\SOF\\20250202\\7721_\uB8E8\uB3CC\uD504 \uC6D4\uB4DC\uCEF5\\KJW_7721.c",
+              "RelativeToolTip": "..\\..\\CodingTest-Study\\SOF\\20250202\\7721_\uB8E8\uB3CC\uD504 \uC6D4\uB4DC\uCEF5\\KJW_7721.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-02T00:28:34.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "7721.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\7721.c",
               "RelativeDocumentMoniker": "7721.c",
@@ -62,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "9495.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\9495.c",
               "RelativeDocumentMoniker": "9495.c",
@@ -70,12 +86,11 @@
               "RelativeToolTip": "9495.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-27T06:23:13.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T06:23:13.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "vector",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
@@ -85,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ST_CPTI.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\ST_CPTI.c",
               "RelativeDocumentMoniker": "ST_CPTI.c",
@@ -97,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "2164.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\2164.c",
               "RelativeDocumentMoniker": "2164.c",
@@ -109,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "18258.cpp",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\18258.cpp",
               "RelativeDocumentMoniker": "18258.cpp",
@@ -121,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "10828.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\10828.c",
               "RelativeDocumentMoniker": "10828.c",
@@ -133,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "1158.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1158.c",
               "RelativeDocumentMoniker": "1158.c",
@@ -141,12 +156,11 @@
               "RelativeToolTip": "1158.c",
               "ViewState": "AgIAACEAAAAAAAAAAAAuwD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-21T13:06:56.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T13:06:56.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "9012.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\9012.c",
               "RelativeDocumentMoniker": "9012.c",
