@@ -3,48 +3,59 @@
 #include <stdio.h>
 #include <stdlib.h>
  
-typedef struct _Pair
+// 미생물 위치, 크기 정보
+typedef struct
 {
 	int position;
 	int size;
 } Pair;
 
-typedef struct _Queue
+typedef struct
 {
+	Pair* data;
 	int front;
 	int rear;
-	int data[];
+	int capacity;
 }Queue;
 
-void createQueue(Queue* q)
+Queue* createQueue(int capacity)
 {
+	Queue* q = (Queue*)malloc(sizeof(Queue));
+	q->data = (Pair*)malloc(sizeof(Pair) * capacity);
 	q->front = 0;
 	q->rear = 0;
+	q->capacity = capacity;
+	return q;
 }
 
-void pushQueue(Queue* q, int data)
+void pushQueue(Queue* q, Pair data)
 {
 	q->data[q->rear++] = data;
 }
 
-int popQueue(Queue* q)
+Pair popQueue(Queue* q)
 {
 	return q->data[q->front++];
 }
+
+
 
 int main(void)
 {
 	int N;
 	(void)scanf("%d", &N);
 
-	int* Ary = (int*)malloc(sizeof(int) * (N + 1));
-	createQueue();
-	for (int i = 0;i < 5;++i)
+	// queue에 데이터 넣기 { index, size } 순
+	Queue* q = createQueue(N);	
+	for (int i = 0; i < N; ++i)
 	{
-		(void)scanf("%d", Ary + i);
+		int size;
+		(void)scanf("%d", &size);
+		Pair pair = { i, size };
+		pushQueue(q, pair);
 	}
 
-
+	while()
 
 	return 0;
 }
