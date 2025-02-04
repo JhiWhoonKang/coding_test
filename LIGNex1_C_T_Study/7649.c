@@ -6,21 +6,74 @@
 
 #define MAX 5000
 
-typedef struct _Tree
+typedef struct _Edge
 {
 	int to;
 	char c;
-	struct _Tree* next;
-}Tree;
+	struct _Edge* next;
+} Edge;
 
-Tree* tree[MAX + 1];
+Edge* tree[MAX + 1];
+int N, M;			// N: 정점의 개수, M: 문자열의 길이
+char S[MAX];	// input: 입력 문자열, 좋아하는 산책길 종류 순서
+
+void AddEdge(int u, int v, char c)
+{
+    Edge* edge = (Edge*)malloc(sizeof(Edge));
+    edge->to = v;
+    edge->c = c;
+    edge->next = *(tree + v);
+    *(tree + u) = edge;
+}
+
+// 시작점: 항상 1번 정점
+// 끝점: 1번 정점을 루트로 봤을 때의 리프 노드 중 하나
+int maxHappy = 0;
+void DFS(int node, int parent, char* path, int path_len) 
+{
+    Edge* edge = *(tree + node);
+    int is_leaf = 1;        // 리프면 1, 아니면 0 => 0이면 더 DFS
+
+    while (edge)
+    {
+        if (edge->to != parent) // 부모 노드로 되돌아가지 않음
+        {
+            is_leaf = 0;
+            path[path_len] = edge->c;            
+            DFS(edge->to, node, path, ++path_len);
+        }
+        edge = edge->next;
+    }
+
+    if (is_leaf) // 리프까지 왔으니까 문자열 비교
+    {
+        path[path_len + 1] = '\0';
+        int happiness = LCS(path, path_len, S, M);
+        if (happiness > maxHappy)
+        {
+            maxHappy = happiness;
+        }
+    }
+}
+
+int LCS()
+{
+    return;
+}
 
 int main(void)
 {
-	int N, M;			// N: 정점의 개수, M: 문장ㄹ의 길이
-	char input[MAX];	// input: 입력 문자열, 좋아하는 산책길 종류 순서
-	(void)scanf("%d %d", &N, &M);	
-	(void)scanf("%s ", input);
+    (void)scanf("%d %d", &N, &M);
+	(void)scanf("%s ", S);
+    for (int i = 0;i < N - 1;++i)      //u, v, c 순으로 입력
+    {
+        int u, v;
+        char c;
+        (void)scanf("%d %d %c", &u, &v, &c);
+        AddEdge(u, v, c);
+        AddEdge(v, u, c);
+    }
+
 
 
 	return 0;
