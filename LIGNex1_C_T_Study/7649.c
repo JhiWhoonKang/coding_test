@@ -22,7 +22,7 @@ void AddEdge(int u, int v, char c)
     Edge* edge = (Edge*)malloc(sizeof(Edge));
     edge->to = v;
     edge->c = c;
-    edge->next = *(tree + v);
+    edge->next = *(tree + u);
     *(tree + u) = edge;
 }
 
