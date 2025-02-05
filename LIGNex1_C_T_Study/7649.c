@@ -48,17 +48,47 @@ void DFS(int node, int parent, char* path, int path_len)
     if (is_leaf) // 리프까지 왔으니까 문자열 비교
     {
         path[path_len + 1] = '\0';
-        int happiness = LCS(path, path_len, S, M);
-        if (happiness > maxHappy)
+        int happy = LCS(path, S, path_len, M);
+        if (happy > maxHappy)
         {
-            maxHappy = happiness;
+            maxHappy = happy;
         }
     }
 }
 
-int LCS()
-{
+int maxSearch[MAX + 1][MAX + 1];        // dp 돌릴거
+int LCS(char*ss, char *SS, int s_len, int S_len)
+{   
+    for (int i = 1;i <= s_len;++i)
+    {
+        for (int j = 1;j <= S_len;++j)
+        {
+            if (*(ss + (i - 1)) == *(SS + (j - 1))) // for문 돌리다가 문자 같은거 발견
+            {
+                maxSearch[i][j] = maxSearch[i - 1][j - 1] + 1;
+            }
+            else // 다르면 dp 원리로 
+            {
+                maxSearch[i][j] = ;
+            }
+        }
+    }
     return;
+}
+
+int compute_LCS(char* str1, int len1, char* str2, int len2) {
+    int dp[MAX_M + 1][MAX_M + 1] = { 0 };
+    for (int i = 1; i <= len1; i++) {
+        for (int j = 1; j <= len2; j++) {
+            if (str1[i - 1] == str2[j - 1]) {
+                dp[i][j] = dp[i - 1][j - 1] + 1;
+            }
+            else {
+                dp[i][j] = (dp[i - 1][j] > dp[i][j - 1]) ? dp[i - 1][j] : dp[i][j - 1];
+            }
+        }
+    }
+    return dp[len1][len2];
 }
 
 int main(void)
@@ -81,6 +111,8 @@ int main(void)
 #endif
 
 #if 0
+#define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
