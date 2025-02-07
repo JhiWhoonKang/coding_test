@@ -11,6 +11,12 @@
       "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:7697.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\7721.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:7721.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -53,8 +59,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:04:23.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:03:42.845Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -63,7 +93,7 @@
               "RelativeDocumentMoniker": "7649.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\7649.c",
               "RelativeToolTip": "7649.c",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowGUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-03T14:54:20.475Z",
               "EditorCaption": ""
@@ -76,13 +106,14 @@
               "RelativeDocumentMoniker": "7697.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\7697.c",
               "RelativeToolTip": "7697.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA2wFUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-03T01:07:27.644Z"
+              "WhenOpened": "2025-02-03T01:07:27.644Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "7721.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\7721.c",
               "RelativeDocumentMoniker": "7721.c",
@@ -94,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "9495.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\9495.c",
               "RelativeDocumentMoniker": "9495.c",
@@ -106,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "vector",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
@@ -118,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ST_CPTI.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\ST_CPTI.c",
               "RelativeDocumentMoniker": "ST_CPTI.c",
@@ -130,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "2164.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\2164.c",
               "RelativeDocumentMoniker": "2164.c",
@@ -142,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "18258.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\18258.cpp",
               "RelativeDocumentMoniker": "18258.cpp",
@@ -154,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "10828.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\10828.c",
               "RelativeDocumentMoniker": "10828.c",
@@ -166,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "1158.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\1158.c",
               "RelativeDocumentMoniker": "1158.c",
@@ -178,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "9012.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\coding_test\\LIGNex1_C_T_Study\\9012.c",
               "RelativeDocumentMoniker": "9012.c",

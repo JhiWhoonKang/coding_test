@@ -41,7 +41,6 @@ void DFS(int node, int parent, char* path, int path_len)
         {
             is_leaf = 0;
             path[path_len] = edge->c;
-            path[path_len + 1] = '\0';
             DFS(edge->to, node, path, ++path_len);
         }
         edge = edge->next;
@@ -62,15 +61,19 @@ int LCS(char*ss, char *SS, int s_len, int S_len)
 {   
     for (int i = 1; i <= s_len; ++i)
     {
+        //for (int j = i; j <= S_len; ++j)
         for (int j = 1; j <= S_len; ++j)
         {
+        
             if (*(ss + (i - 1)) == *(SS + (j - 1))) // for문 돌리다가 문자 같은거 발견
             {
-                maxSearch[i][j] = maxSearch[i - 1][j - 1] + 1;
+                maxSearch[i][j] = maxSearch[i - 1][j - 1] + 1;               
+                //return;
             }
-            else // 다르면 dp 원리로 
+            else // 다르면 최댁ㅅ밧 적용
             {
                 maxSearch[i][j] = (maxSearch[i - 1][j] > maxSearch[i][j - 1]) ? maxSearch[i - 1][j] : maxSearch[i][j - 1];
+                //maxSearch[i][j] = maxSearch[i - 1][j - 1];
             }
         }
     }
