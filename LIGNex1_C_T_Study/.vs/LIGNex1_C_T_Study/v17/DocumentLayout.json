@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\10866.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:10866.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1966.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:1966.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1935.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:1935.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\2346.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:2346.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\7649.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:7649.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\7721.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:7721.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\10866.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:10866.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -16,48 +36,36 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\2346.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2346.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\7697.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:7697.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\7649.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:7649.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\9495.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:9495.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\7697.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:7697.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\ST_CPTI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:ST_CPTI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\7721.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:7721.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\2164.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:2164.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\9495.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:9495.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\18258.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:18258.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\ST_CPTI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ST_CPTI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\10828.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:10828.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\2164.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2164.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1158.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:1158.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\18258.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:18258.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\10828.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:10828.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1158.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1158.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\9012.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:9012.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\9012.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:9012.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,36 +75,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "1966.cpp",
+              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1966.cpp",
+              "RelativeDocumentMoniker": "1966.cpp",
+              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1966.cpp",
+              "RelativeToolTip": "1966.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T14:39:21.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1935.cpp",
+              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1935.cpp",
+              "RelativeDocumentMoniker": "1935.cpp",
+              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1935.cpp",
+              "RelativeToolTip": "1935.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T14:31:46.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "2346.cpp",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\2346.cpp",
               "RelativeDocumentMoniker": "2346.cpp",
               "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\2346.cpp",
               "RelativeToolTip": "2346.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwC8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-12T14:11:49.737Z"
+              "WhenOpened": "2025-02-12T14:11:49.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "10866.cpp",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\10866.cpp",
               "RelativeDocumentMoniker": "10866.cpp",
               "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\10866.cpp",
               "RelativeToolTip": "10866.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-12T14:11:49.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
@@ -106,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\App.xaml.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\WpfApp1\\WpfApp1\\WpfApp1\\App.xaml.cs",
@@ -116,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "7649.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\7649.c",
               "RelativeDocumentMoniker": "7649.c",
@@ -124,11 +159,12 @@
               "RelativeToolTip": "7649.c",
               "ViewState": "AgIAAD4AAAAAAAAAAAAowEoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-12T14:11:49.852Z"
+              "WhenOpened": "2025-02-12T14:11:49.852Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "7697.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\7697.c",
               "RelativeDocumentMoniker": "7697.c",
@@ -140,19 +176,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "7721.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\7721.c",
               "RelativeDocumentMoniker": "7721.c",
               "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\7721.c",
               "RelativeToolTip": "7721.c",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-12T14:11:49.857Z"
+              "WhenOpened": "2025-02-12T14:11:49.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "9495.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\9495.c",
               "RelativeDocumentMoniker": "9495.c",
@@ -164,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "vector",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
@@ -174,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ST_CPTI.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\ST_CPTI.c",
               "RelativeDocumentMoniker": "ST_CPTI.c",
@@ -186,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "2164.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\2164.c",
               "RelativeDocumentMoniker": "2164.c",
@@ -198,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "18258.cpp",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\18258.cpp",
               "RelativeDocumentMoniker": "18258.cpp",
@@ -210,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "10828.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\10828.c",
               "RelativeDocumentMoniker": "10828.c",
@@ -222,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "1158.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\1158.c",
               "RelativeDocumentMoniker": "1158.c",
@@ -234,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "9012.c",
               "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\9012.c",
               "RelativeDocumentMoniker": "9012.c",
