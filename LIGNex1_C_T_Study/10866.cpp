@@ -7,7 +7,7 @@ int main(void)
 {
 	int cnt;
 	cin >> cnt;
-	
+
 	deque<int>Deque;
 	for (int i = 0;i < cnt;++i)
 	{
