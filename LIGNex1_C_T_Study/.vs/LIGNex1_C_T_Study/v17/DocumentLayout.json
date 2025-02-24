@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\LIG_SW\\githubRepo\\coding_test\\LIGNex1_C_T_Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\2493.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:2493.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|C:\\Users\\user\\Desktop\\LIG_SW\\githubRepo\\coding_test\\LIGNex1_C_T_Study\\2504.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A118B5C-B9EA-47C0-A1FC-2088A8116E71}|LIGNex1_C_T_Study.vcxproj|solutionrelative:2504.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2493.cpp",
-              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\2493.cpp",
-              "RelativeDocumentMoniker": "2493.cpp",
-              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\LIGNex1_C_T_Study\\2493.cpp",
-              "RelativeToolTip": "2493.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Title": "2504.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LIG_SW\\githubRepo\\coding_test\\LIGNex1_C_T_Study\\2504.cpp",
+              "RelativeDocumentMoniker": "2504.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LIG_SW\\githubRepo\\coding_test\\LIGNex1_C_T_Study\\2504.cpp",
+              "RelativeToolTip": "2504.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-19T14:50:44.516Z",
+              "WhenOpened": "2025-02-20T01:35:57.935Z",
               "EditorCaption": ""
             }
           ]

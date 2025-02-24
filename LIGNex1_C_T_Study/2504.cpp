@@ -1,4 +1,4 @@
-// ( ) [ ]
+// ( ) [ ] : +
 // ( ) : 2
 // [ ] : 3
 
@@ -14,52 +14,67 @@ int main() {
     string input;
     cin >> input;
 
-    stack<char> st;   // 괄호의 짝을 맞추기 위한 스택
-    int result = 0;   // 최종 괄호열의 값을 저장할 변수
-    int value = 1;    // 현재 괄호 구조에 따른 곱셈 인자 (누적값)
+    stack<char> _stack;
+    int result = 0;
+    int value = 1;    // 괄호 내부 값
     int idx = 0;      // 현재 문자의 인덱스
 
-    for (char ch : input) {
-        if (ch == '(') {
-            value *= 2;       // '('를 만나면 value에 2를 곱함
-            st.push(ch);      // 스택에 '('를 저장
+    for (char ch : input) 
+    {
+        // '('를 만나면 value에 2 곱
+        if (ch == '(') 
+        {
+            value *= 2;
+            _stack.push(ch);        // '(' push
         }
-        else if (ch == '[') {
-            value *= 3;       // '['를 만나면 value에 3을 곱함
-            st.push(ch);      // 스택에 '['를 저장
+        // '['를 만나면 value에 3 곱
+        else if (ch == '[') 
+        {
+            value *= 3;
+            _stack.push(ch);            // '[' push
         }
         else if (ch == ')') {
-            // 스택이 비어있거나 top이 '('가 아니면 올바르지 않은 괄호열
-            if (st.empty() || st.top() != '(') {
+            // 말 안되는 케이스 1. 시작부터 닫는거 2. 바로 이전 문자가 '(' 아닌거
+            if (_stack.empty() || _stack.top() != '(')
+            {
                 cout << 0;
                 return 0;
             }
-            // 바로 이전 문자가 '('라면, 현재 value를 결과에 더함
-            // 즉, 괄호 안에 다른 값이 없으므로 현재 value가 괄호의 값
+            
+            // 짝꿍 맞는 경우
             if (input[idx - 1] == '(')
+            {
                 result += value;
-            st.pop();         // 짝을 맞췄으므로 스택에서 제거
-            value /= 2;       // '('에 대해 곱해진 2의 효과 제거
+            }                
+            _stack.pop();       // 맞춘 짝 제거
+            value /= 2;         // () 괄호 값 제거
         }
-        else if (ch == ']') {
-            if (st.empty() || st.top() != '[') {
+        else if (ch == ']') 
+        {
+            // 말 안되는 케이스 1. 시작부터 닫는거 2. 바로 이전 문자가 '[' 아닌거
+            if (_stack.empty() || _stack.top() != '[')
+            {
                 cout << 0;
                 return 0;
             }
             if (input[idx - 1] == '[')
+            {
                 result += value;
-            st.pop();
-            value /= 3;       // '['에 대해 곱해진 3의 효과 제거
+            }                
+            _stack.pop();       // 맞춘 짝 제거
+            value /= 3;         // () 괄호 값 제거
         }
-        idx++;  // 다음 문자로 이동
+        ++idx;  // 다음 문자로 이동
     }
 
-    // 모든 괄호가 짝을 이루지 못했다면 올바르지 않은 괄호열임
-    if (!st.empty()) {
+    // 짝 수 안맞는거
+    if (!_stack.empty()) 
+    {
         cout << 0;
         return 0;
     }
 
     cout << result;
+
     return 0;
 }
