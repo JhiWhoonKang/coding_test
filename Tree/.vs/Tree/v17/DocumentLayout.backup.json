@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD895B01-7107-451E-9C19-EA9E85C30576}|Tree.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\Tree\\1068.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD895B01-7107-451E-9C19-EA9E85C30576}|Tree.vcxproj|solutionrelative:1068.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD895B01-7107-451E-9C19-EA9E85C30576}|Tree.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\Tree\\6416.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD895B01-7107-451E-9C19-EA9E85C30576}|Tree.vcxproj|solutionrelative:6416.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD895B01-7107-451E-9C19-EA9E85C30576}|Tree.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\coding_test\\Tree\\11725.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD895B01-7107-451E-9C19-EA9E85C30576}|Tree.vcxproj|solutionrelative:11725.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1068.cpp",
+              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\Tree\\1068.cpp",
+              "RelativeDocumentMoniker": "1068.cpp",
+              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\Tree\\1068.cpp",
+              "RelativeToolTip": "1068.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T11:40:44.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "11725.cpp",
+              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\Tree\\11725.cpp",
+              "RelativeDocumentMoniker": "11725.cpp",
+              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\Tree\\11725.cpp",
+              "RelativeToolTip": "11725.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T13:51:52.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6416.cpp",
+              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\Tree\\6416.cpp",
+              "RelativeDocumentMoniker": "6416.cpp",
+              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\coding_test\\Tree\\6416.cpp",
+              "RelativeToolTip": "6416.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T13:30:37.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
