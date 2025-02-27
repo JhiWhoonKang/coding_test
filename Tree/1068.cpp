@@ -18,14 +18,13 @@ int leafNum(int node)
 		return 0;
 	}
 
-	int cnt = 0;
+	int isLeaf = 0;
 	for (int child : tree[node])
 	{
 		if (child == deleteNode)
 		{
 			continue;
 		}
-		totalLeaf += leafNum(child);		
 	}
 	return totalLeaf;
 }
@@ -49,7 +48,7 @@ int main(void)
 		{
 			rootNode = nodeIdx;
 		}
-		else							// i번 node의 parent에 child 누구 있는지 저장
+		else							// nodeIdx번 node의 parent에 child 누구 있는지 저장
 		{
 			tree[parent[nodeIdx]].push_back(nodeIdx);
 		}
