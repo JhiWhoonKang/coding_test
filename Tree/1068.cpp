@@ -14,7 +14,6 @@ int totalLeaf;
 int leafNum(int node)
 {
 	if (node == deleteNode)
-	{
 		return 0;
 	}
 
