@@ -1,0 +1,4 @@
+echo ".vs/" >> .gitignore
+echo "*.obj" >> .gitignore
+echo "*.exe.recipe" >> .gitignore
+echo "*.tlog/" >> .gitignore
