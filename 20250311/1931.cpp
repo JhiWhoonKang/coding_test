@@ -20,24 +20,21 @@ int main(void)
 		conference[i] = { startTime, endTime };
 	}
 
-	sort(conference.begin(), conference.end(), [](const pair<int, int>& a, const pair<int, int>& b) 
-	{
-		if (a.first == b.first)
-			return a.second < b.second;
-		return a.first < b.first;
-	});
+    sort(conference.begin(), conference.end(), [](const pair<int, int>& a, const pair<int, int>& b) {
+        if (a.second == b.second)
+            return a.first < b.first;
+        return a.second < b.second;
+        });
 
     int cnt = 0;
     int prev_end_time = 0;
-    for (auto& conf : conference)
+    for (int i = 0; i < N; i++) 
     {
-        int endtime = conf.first;
-        int starttime = conf.second;
-
-        if (starttime >= prev_end_time) 
+        // 현재 회의의 시작 시간이 마지막 회의의 종료 시간보다 크거나 같으면 선택
+        if (conference[i].first >= prev_end_time) 
         {
             ++cnt;
-            prev_end_time = endtime;
+            prev_end_time = conference[i].second;
         }
     }
 
