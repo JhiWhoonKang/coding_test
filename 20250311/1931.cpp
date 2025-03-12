@@ -19,13 +19,29 @@ int main(void)
 		cin >> startTime >> endTime;
 		conference[i] = { startTime, endTime };
 	}
-	
+
 	sort(conference.begin(), conference.end(), [](const pair<int, int>& a, const pair<int, int>& b) 
 	{
 		if (a.first == b.first)
 			return a.second < b.second;
 		return a.first < b.first;
 	});
+
+    int cnt = 0;
+    int prev_end_time = 0;
+    for (auto& conf : conference)
+    {
+        int endtime = conf.first;
+        int starttime = conf.second;
+
+        if (starttime >= prev_end_time) 
+        {
+            ++cnt;
+            prev_end_time = endtime;
+        }
+    }
+
+    cout << cnt << "\n";
 
 	return 0;
 }
