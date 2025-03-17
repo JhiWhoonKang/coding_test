@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "21758.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LIG_SW\\githubRepo\\coding_test\\20250311\\21758.cpp",
-              "RelativeDocumentMoniker": "21758.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LIG_SW\\githubRepo\\coding_test\\20250311\\21758.cpp",
-              "RelativeToolTip": "21758.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-12T06:44:42.296Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +28,21 @@
               "RelativeDocumentMoniker": "1931.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\LIG_SW\\githubRepo\\coding_test\\20250311\\1931.cpp",
               "RelativeToolTip": "1931.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T14:39:16.93Z",
+              "WhenOpened": "2025-03-12T23:53:54.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "21758.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LIG_SW\\githubRepo\\coding_test\\20250311\\21758.cpp",
+              "RelativeDocumentMoniker": "21758.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LIG_SW\\githubRepo\\coding_test\\20250311\\21758.cpp",
+              "RelativeToolTip": "21758.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAA2wKIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T23:53:50.544Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,6 @@
 #include <iostream>
+#include <vector>
+#include <algorithm>
 
 using namespace std;
 
@@ -12,6 +14,49 @@ int main(void)
 	// 벌통으로 날아가면서 지나가는 모든 칸에 꿀 수집
 	// 칸에 있는 숫자는 꿀을 수집할 수 있는 양(벌통 포함)
 	// 시작 장소는 불가
+
+    int N;              // N개의 장소
+    cin >> N;
+
+    vector<int>Honey(N);
+    for (int i = 0;i < N;++i)
+    {
+        cin >> Honey[i];
+    }
+
+    int totalHoney = 0;     // 전체 꿀 합
+
+    for (int i = 0;i < N;++i)
+    {
+        totalHoney += Honey[i];
+    }
+
+    vector<int>func(N + 1, 0);
+    for (int i = 0;i < N;++i)
+    {
+        for (int j = 0;j <= i;++j)
+        {
+            func[i + 1] += Honey[i];
+        }        
+    }
+
+
+    int max_honey = 0;
+
+    //모두 벌통 왼쪽(벌통 오른쪽 맨 끝)
+    //왼쪽 벌: (totalHoney - Honey[0] - Honey[i])
+    //오른쪽 벌(i 위치): (totalHoney - (0 ~ i번 까지 벌꿀))
+    for (int i = 1;i < N - 1; ++i)
+    {
+        int tmp_honey = (totalHoney - Honey[0] - Honey[i]) + (totalHoney - func[i]);
+        max_honey = max(max_honey, tmp_honey);
+    }
+
+    // 벌통 양옆
+    for(int i=0;i<N;)
+
+    // 모두 벌통 오른쪽(벌통 맨 왼쪽)
+    for(int i=)
 
 
 	return 0;
