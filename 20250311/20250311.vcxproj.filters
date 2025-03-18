@@ -21,5 +21,11 @@
     <ClCompile Include="21758.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\CodingTest-Study\BJN\20250320\15661_링크와 스타트\강지훈_15661.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="강지훈_21315.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
