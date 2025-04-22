@@ -1,34 +1,53 @@
-# Visual Studio 관련 파일들
+# Visual Studio 관련
 .vs/
-*.vsidx
+*.vcxproj.user
 *.suo
 *.user
-*.userosscache
-*.sln.docstates
-
-# 빌드 결과물 디렉토리 (예: Debug, Release 폴더)
-[Dd]ebug/
-[Rr]elease/
-x64/
-build/
-
-# 컴파일 산출물
+*.cache
+*.pdb
 *.obj
-*.exe.recipe
-*.tlog/
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
 
-# IntelliSense 및 관련 임시 파일
-.ipch/
-
-# 데이터베이스 파일 (자동 생성되거나 환경에 따라 달라질 수 있음)
-*.db
-
-# 환경 설정 파일 (필요한 경우 제외, 일반적으로 로컬 설정 파일이라면 무시)
-config.json
-*.config.local.json
-
-# 로그 파일들
+# 빌드 출력
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.dll
+*.lib
+*.exp
 *.log
 
-# 기타 임시 파일
+# CMake (만약 쓴다면)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 기타 IDE 캐시/설정
+*.tlog
+*.lastbuildstate
+*.ilk
+*.iobj
+*.ipdb
+
+# 백업 파일
+*.bak
 *.tmp
+*~
+
+# 사용자 설정 파일
+*.userprefs
+*.sdf
+*.opensdf
+
+# 숨김 시스템 파일
+.DS_Store
+Thumbs.db
